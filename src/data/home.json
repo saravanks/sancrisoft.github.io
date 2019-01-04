@@ -1,0 +1,152 @@
+{
+    "weLove": {
+        "title": "Meattogo",
+        "image": "../../images/home/meattogo.png",
+        "link": "/linkwelove"
+    },
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "juan perez",
+            "image": "/images/small-logo.png"
+        },
+        {
+            "id": 2,
+            "name": "pedro pablo",
+            "image": "../../images/small-logo.png"
+        },
+        {
+            "id": 3,
+            "name": "camilo ortiz",
+            "image": "../../images/small-logo.png"
+        },
+        {
+            "id": 4,
+            "name": "gonza gonza",
+            "image": "../../images/small-logo.png"
+        },
+        {
+            "id": 5,
+            "name": "alfonso jaramillo",
+            "image": "../../images/small-logo.png"
+        },
+        {
+            "id": 6,
+            "name": "cristian puerto",
+            "image": "../../images/small-logo.png"
+        }
+    ],
+    "carousel": [
+        {
+            "id": 1,
+            "type": "image",
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "type": "image",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "type": "image",
+            "link": "#"
+        },
+        {
+            "id": 4,
+            "type": "image",
+            "link": "#"
+        }
+    ],
+    "offices": [
+        {
+            "id": "colombia/antioquia/envigado",
+            "title": "Medellin",
+            "address1": "Calle 49 Sur #45 A 300",
+            "address2": "Envigado, Antioquia",
+            "state": "Colombia",
+            "phone": "+57 (4) 4797416",
+            "postalCode": "055422",
+            "latitude": "6.162996",
+            "longitude": "-75.602191"
+        },
+        {
+            "id": "venezuela/tachira/san-cristobal",
+            "title": "San Cristóbal",
+            "address1": "Santa Teresa",
+            "address2": "San Cristóbal, Táchira",
+            "phone": "+58 (276) 3412769",
+            "state": "Venezuela",
+            "postalCode": "5001",
+            "latitude": "7.798563",
+            "longitude": "-72.222281"
+        }
+    ],
+    "processes": [
+        {
+            "id": "web",
+            "technologies": [
+                {
+                    "id": "react",
+                    "tooltip": "React",
+                    "color": "#65DAF9"
+                },
+                {
+                    "id": "webpack",
+                    "tooltip": "Webpack",
+                    "color": "#2177BE"
+                },
+                {
+                    "id": "redux",
+                    "tooltip": "Redux",
+                    "color": "#7649BA"
+                },
+                {
+                    "id": "styled",
+                    "tooltip": "Styled components",
+                    "color": "#F0B4EB"
+                },
+                {
+                    "id": "material",
+                    "tooltip": "Material UI",
+                    "color": "#8B8B8B"
+                }
+            ]
+        },
+        {
+            "id": "mobile",
+            "technologies": [
+                {
+                    "id": "react",
+                    "tooltip": "React Native",
+                    "color": "#65DAF9"
+                },
+                {
+                    "id": "webpack",
+                    "tooltip": "Webpack",
+                    "color": "#2177BE"
+                },
+                {
+                    "id": "android",
+                    "tooltip": "Android",
+                    "color": "#8FC321"
+                },
+                {
+                    "id": "styled",
+                    "tooltip": "Styled components",
+                    "color": "#F0B4EB"
+                },
+                {
+                    "id": "ios",
+                    "tooltip": "iOs",
+                    "color": "#F3B338"
+                }
+            ]
+        }
+    ],
+    "networks": {
+        "facebook": "https://www.facebook.com/sancrisoft",
+        "instagram": "https://www.instagram.com/sancrisoft/",
+        "twitter": "https://twitter.com/sancrisoft"
+    }
+}
